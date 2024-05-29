@@ -699,7 +699,7 @@ async def slider_queries(client, CallbackQuery, _):
         )
 
 
-__MODULE__ = "Plᴀʏ"
+__MODULE__ = ""
 __HELP__ = """✅<u>Pʟᴀʏ Cᴏᴍᴍᴀɴᴅs:</u>
 Aᴠᴀɪʟᴀʙʟᴇ Cᴏᴍᴍᴀɴᴅs = play , vplay , cplay
 FᴏʀᴄᴇPʟᴀʏ Cᴏᴍᴍᴀɴᴅs = ᴘʟᴀʏғᴏʀᴄᴇ , ᴠᴘʟᴀʏғᴏʀᴄᴇ , ᴄᴘʟᴀʏғᴏʀᴄᴇ
