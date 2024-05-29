@@ -11,6 +11,7 @@ googletrans
 googlesearch-python
 google_play_scraper #for playstore app search 
 hachoir
+async_pymongo
 httpx[http2]
 heroku3
 img2pdf
