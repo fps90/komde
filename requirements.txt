@@ -1,6 +1,7 @@
 aiofiles
 aiohttp
 asyncio
+emojis
 bing-image-urls # this for in image module for searching images from bing
 dnspython==2.3.0
 ffmpeg-python
@@ -19,6 +20,10 @@ MukeshAPI
 motor
 pillow==9.5.0
 pyfiglet
+async_pymongo
+future==0.18.3
+python-telegram-bot==13.15
+numpy
 opencv-python-headless==4.9.0.80
 profanity
 pytz
