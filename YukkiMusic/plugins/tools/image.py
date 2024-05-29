@@ -52,7 +52,7 @@ async def pinterest(_, message):
             return await msg.edit(f"ᴇʀʀᴏʀ : {e}")
 
 
-__MODULE__ = "Iᴍᴀɢᴇ"
+__MODULE__ = ""
 __HELP__ = """/pinterest [ǫᴜᴇʀʏ] - ᴛᴏ ɢᴇᴛ ᴛᴏᴘ 7 ɪᴍᴀɢᴇs ғʀᴏᴍ ᴘɪɴᴛᴇʀᴇsᴛ
 /image [ǫᴜᴇʀʏ] - ᴛᴏ ɢᴇᴛ ᴛᴏᴘ ɪᴍᴀɢᴇs ғʀᴏᴍ ʙɪɴɢ
 /cat - ɢᴇᴛ ʀᴀɴᴅᴏᴍ ᴄᴀᴛ ɪᴍᴀɢᴇs
