@@ -447,7 +447,7 @@ async def authusers_mar(client, CallbackQuery, _):
         return
 
 
-__MODULE__ = "Seᴛᴛɪɴɢs"
+__MODULE__ = ""
 __HELP__ = """✅<u>Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs:</u>
 /settings - Gᴇᴛ ᴀ ᴄᴏᴍᴘʟᴇᴛᴇ ɢʀᴏᴜᴘ's sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs
 
