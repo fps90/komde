@@ -296,7 +296,7 @@ async def cancelcmd(_, message):
         return
 
 
-__MODULE__ = "Tᴀɢᴀʟʟ"
+__MODULE__ = ""
 __HELP__ = """
 
 @all ᴏʀ /all | /tagall ᴏʀ  @tagall | /mentionall ᴏʀ  @mentionall [ᴛᴇxᴛ] ᴏʀ [ʀᴇᴘʟʏ ᴛᴏ ᴀɴʏ ᴍᴇssᴀɢᴇ] ᴛᴏ ᴛᴀɢ ᴀʟʟ ᴜsᴇʀ's ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ʙᴛ ʙᴏᴛ
