@@ -24,6 +24,6 @@ async def text_to_speech(client, message):
     await message.reply_audio(audio_file)
 
 
-__MODULE__ = "Tᴛs"
+__MODULE__ = ""
 __HELP__ = """
 /tts [ᴛᴇxᴛ] - ɢᴇɴᴇʀᴀᴛᴇ ᴀᴜᴅɪᴏ ғʀᴏᴍ ᴛᴇxᴛ"""
