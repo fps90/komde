@@ -341,7 +341,7 @@ async def del_back_playlist(client, CallbackQuery, _):
         await mystic.edit_text(f"{string}\n\nᴄʜᴀɴɢᴇs ᴅᴏɴᴇ ʙʏ : {mention} !")
 
 
-__MODULE__ = "Adᴍɪɴ"
+__MODULE__ = ""
 __HELP__ = """✅<u>Aᴅᴍɪɴ Cᴏᴍᴍᴀɴᴅs:</u>
 
 c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.
