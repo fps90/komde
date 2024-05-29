@@ -398,7 +398,7 @@ async def restart_(_, message):
     os.system(f"kill -9 {os.getpid()} && python3 -m YukkiMusic")
 
 
-__MODULE__ = "Deᴠ"
+__MODULE__ = ""
 __HELP__ = """🔰<u>Aᴅᴅ Aɴᴅ Rᴇᴍᴏᴠᴇ Sᴜᴅᴏ Usᴇʀ's:</u>
 /addsudo [Usᴇʀɴᴀᴍᴇ ᴏʀ Rᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
 /delsudo [Usᴇʀɴᴀᴍᴇ ᴏʀ Rᴇᴘʟʏ ᴛᴏ ᴀ ᴜsᴇʀ]
