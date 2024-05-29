@@ -36,7 +36,7 @@ async def chatgpt_chat(bot, message):
         pass
 
 
-__MODULE__ = "Aɪ"
+__MODULE__ = ""
 __HELP__ = """
 /advice - ɢᴇᴛ ʀᴀɴᴅᴏᴍ ᴀᴅᴠɪᴄᴇ ʙʏ ʙᴏᴛ
 /ai [ǫᴜᴇʀʏ] - ᴀsᴋ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ ᴡɪᴛʜ ᴄʜᴀᴛɢᴘᴛ's ᴀɪ
