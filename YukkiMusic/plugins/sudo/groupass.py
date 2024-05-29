@@ -79,7 +79,7 @@ Assistant ID:- @{assistant.id}"""
     await message.reply_text(DETAILS, disable_web_page_preview=True, protect_content=PK)
 
 
-__MODULE__ = "Gᴀssɪsᴛᴀɴᴛ"
+__MODULE__ = ""
 __HELP__ = """<u> ɢʀᴏᴜᴘ ᴀssɪsᴛᴀɴᴛ's ᴄᴏᴍᴍᴀɴᴅ:</u>
 
 /checkassistant - ᴄʜᴇᴄᴋ ᴅᴇᴛᴀɪʟs ᴏғ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀssɪsᴛᴀɴᴛ
